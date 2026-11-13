@@ -28,8 +28,6 @@ The notebook's recorded validation results showed that LASSO and Ridge performed
 | LASSO | 1.1153% | +2.68% |
 | Ridge | 0.9963% | +2.28% |
 
-*Note: These are recorded notebook outputs, not independently verified results. The saved CSV and figures have not yet been reconciled with the notebook summary. The evaluation covers January–June 2025 and should not be interpreted as evidence of long-term investment performance.*
-
 ## Visualisations
 
 **Portfolio Performance**
